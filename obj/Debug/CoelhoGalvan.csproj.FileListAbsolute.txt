@@ -1,0 +1,10 @@
+C:\Users\Sergio\source\repos\CoelhoGalvan\CoelhoGalvan\bin\Debug\CoelhoGalvan.exe.config
+C:\Users\Sergio\source\repos\CoelhoGalvan\CoelhoGalvan\bin\Debug\CoelhoGalvan.exe
+C:\Users\Sergio\source\repos\CoelhoGalvan\CoelhoGalvan\bin\Debug\CoelhoGalvan.pdb
+C:\Users\Sergio\source\repos\CoelhoGalvan\CoelhoGalvan\obj\Debug\CoelhoGalvan.csproj.AssemblyReference.cache
+C:\Users\Sergio\source\repos\CoelhoGalvan\CoelhoGalvan\obj\Debug\CoelhoGalvan.Form1.resources
+C:\Users\Sergio\source\repos\CoelhoGalvan\CoelhoGalvan\obj\Debug\CoelhoGalvan.Properties.Resources.resources
+C:\Users\Sergio\source\repos\CoelhoGalvan\CoelhoGalvan\obj\Debug\CoelhoGalvan.csproj.GenerateResource.cache
+C:\Users\Sergio\source\repos\CoelhoGalvan\CoelhoGalvan\obj\Debug\CoelhoGalvan.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\source\repos\CoelhoGalvan\CoelhoGalvan\obj\Debug\CoelhoGalvan.exe
+C:\Users\Sergio\source\repos\CoelhoGalvan\CoelhoGalvan\obj\Debug\CoelhoGalvan.pdb
